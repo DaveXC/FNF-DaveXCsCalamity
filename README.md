@@ -11,22 +11,22 @@ haxelib linc_luajit
 haxelib haxejit_luajit
 
 ## Credits:
-DaveXC - Editing/Coding
-Junicko - Coding
-BanduCutie - Coding
-FinGonz - Assistant coding
-ztgds - features and other shit
-Robloxdop - art
+*DaveXC - Editing/Coding
+*Junicko - Coding
+*BanduCutie - Coding
+*FinGonz - Assistant coding
+*ztgds - features and other shit
+*Robloxdop - art
 
 ## SPECIAL THANKS:
-Dan_08
-robloxdop
-BombasticHype
-Villezen
-WhatsDown
-hortas
-Maevings
-Lancey
-Astro_Galaxy
-MoldyGH
-PearlescentMoon - Blocking me
+*Dan_08
+*robloxdop
+*BombasticHype
+*Villezen
+*WhatsDown
+*hortas
+*Maevings
+*Lancey
+*Astro_Galaxy
+*MoldyGH
+*PearlescentMoon - Blocking me
